@@ -19,7 +19,7 @@
 - **Fundamentos de Análise de dados**: cisco, 120h
 
 ### Projetos em destaque 
-- [Pokedex](github.com/lttl-amethyst-ponto-com/app_08/pokedex): projeto React Native Expo
+- [Pokedex](https://github.com/lttl-amethyst/tec.037.007/tree/main/app_08/pokedex): projeto React Native Expo
 
 ### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](heloisaflorsilvadearaujo@gmail.com)
