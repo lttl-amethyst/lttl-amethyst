@@ -1,7 +1,7 @@
 # Heloisa Flor 
 ### Aluno SESI/SENAI 3° Ano.
 
-### 🔨 Toolbox Técno 
+### 🔨 Toolbox Técnico 
 - **IDE**: Visual Studio Code
 - **Linguagens**: Python, Ecossistema JavaScript
 - **Versionamento**: Git, GitHub 
